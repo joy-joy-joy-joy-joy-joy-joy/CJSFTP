@@ -1,0 +1,54 @@
+{
+  "packageInformation": {
+    "sftp.server": {
+      "rootPackageName": "sftp",
+      "fileNameHash": "3909871341637383741",
+      "timeStamp": 1734757590,
+      "buildFlag": true,
+      "exeName": "",
+      "hasSubPkgs": false
+    },
+    "sftp.utils": {
+      "rootPackageName": "sftp",
+      "fileNameHash": "1855282745543502737",
+      "timeStamp": 1734754363,
+      "buildFlag": true,
+      "exeName": "",
+      "hasSubPkgs": false
+    },
+    "sftp.packet": {
+      "rootPackageName": "sftp",
+      "fileNameHash": "7693529158667945949",
+      "timeStamp": 1734755796,
+      "buildFlag": true,
+      "exeName": "",
+      "hasSubPkgs": false
+    },
+    "sftp.version": {
+      "rootPackageName": "sftp",
+      "fileNameHash": "4777316774141705147",
+      "timeStamp": 1734603532,
+      "buildFlag": true,
+      "exeName": "",
+      "hasSubPkgs": false
+    },
+    "sftp.constants": {
+      "rootPackageName": "sftp",
+      "fileNameHash": "4906370987316389044",
+      "timeStamp": 1734196895,
+      "buildFlag": true,
+      "exeName": "",
+      "hasSubPkgs": false
+    },
+    "sftp": {
+      "rootPackageName": "sftp",
+      "fileNameHash": "9178350243403682868",
+      "timeStamp": 1734758129,
+      "buildFlag": true,
+      "exeName": "main",
+      "hasSubPkgs": true
+    }
+  },
+  "jsonHash": "-8923221070352641737",
+  "rootPackageName": "sftp"
+}
